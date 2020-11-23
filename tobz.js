@@ -263,8 +263,8 @@ module.exports = tobz = async (tobz, message) => {
         const url = args.length !== 0 ? args[0] : ''
         const isQuotedImage = quotedMsg && quotedMsg.type === 'image'
 
-        const vhtearkey = 'LEUJU9ybLwAHbLqnGShv' // https://api.vhtear.com
-        const barbarkey = 'LEUJU9ybLwAHbLqnGShv' // https://mhankbarbar.herokuapp.com/api
+        const vhtearkey = '' // https://api.vhtear.com
+        const barbarkey = 'j8D4zBcJSpWq0GnZeaxI' // https://mhankbarbar.herokuapp.com/api
 
         const tutor = 'https://i.ibb.co/Hp1XGbL/a4dec92b8922.jpg'
         const errorurl = 'https://steamuserimages-a.akamaihd.net/ugc/954087817129084207/5B7E46EE484181A676C02DFCAD48ECB1C74BC423/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false'
