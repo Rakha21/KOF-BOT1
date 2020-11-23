@@ -56,7 +56,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MhywGanz/mhyw-BOT",
+    "url": "git+https://github.com/Rakha21/KOF-BOT1",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.9.0",
     "eslint-config-standard": "^14.1.1",
@@ -69,7 +69,7 @@
     "Whatsapp-Bot"
   ],
   "bugs": {
-    "url": "https://github.com/MhywGanz/issues"
+    "url": "https://github.com/Rakha21/issues"
   },
-  "homepage": "https://github.com/MhywGanz/"
+  "homepage": "https://github.com/Rakha21/"
 }
